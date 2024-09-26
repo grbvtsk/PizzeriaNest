@@ -1,0 +1,1 @@
+My web application that implements a RestAPI application based on the proposed pattern using ,TypeScript, Node.js, Nest.js ,Prisma and PostgreSQL that allows users to create, read, update and delete pizza in the Pizzeria. Use '/api/pizza' as root url for pizza. Then '/api/pizza/:id' should be used for requests that require id of pizza.
